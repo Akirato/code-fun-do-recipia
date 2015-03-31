@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>REVOLUTIONIZT</Machine>
+    <WindowsUser>Rajat</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>ab204f60-bf11-4c87-b400-6a951d771fda</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Rajat\Work\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>ED4EB3D9BFBBF62470FAF51E2C329924504A167343C114693A965C0D26B8F5DC</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>ab204f60-bf11-4c87-b400-6a951d771fda_1.0.0.0_neutral__09q55vw2dmksw</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>ab204f60-bf11-4c87-b400-6a951d771fda_09q55vw2dmksw!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>ab204f60-bf11-4c87-b400-6a951d771fda</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Anurag</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Rajat\Work\HubApp1\HubApp1\HubApp1.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-29T14:59:36.688</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Rajat\Work\HubApp1\HubApp1\HubApp1.Windows\bin\Debug\HubApp1.Windows.exe">
+      <PackagePath>HubApp1.Windows.exe</PackagePath>
+      <Modified>2015-03-29T14:59:36.126</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajat\Work\HubApp1\packages\Newtonsoft.Json.6.0.8\lib\netcore45\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+      <Modified>2015-03-29T03:33:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajat\Work\HubApp1\HubApp1\HubApp1.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-28T13:56:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajat\Work\HubApp1\HubApp1\HubApp1.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T10:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajat\Work\HubApp1\HubApp1\HubApp1.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T10:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajat\Work\HubApp1\HubApp1\HubApp1.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T10:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajat\Work\HubApp1\HubApp1\HubApp1.Windows\Assets\WideLogo.scale-100.png">
+      <PackagePath>Assets\WideLogo.scale-100.png</PackagePath>
+      <Modified>2014-03-14T10:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajat\Work\HubApp1\HubApp1\HubApp1.Shared\Assets\LightGray.png">
+      <PackagePath>Assets\LightGray.png</PackagePath>
+      <Modified>2015-03-28T20:07:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajat\Work\HubApp1\HubApp1\HubApp1.Shared\Assets\MediumGray.png">
+      <PackagePath>Assets\MediumGray.png</PackagePath>
+      <Modified>2015-03-28T20:08:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajat\Work\HubApp1\HubApp1\HubApp1.Shared\Assets\DarkGray.png">
+      <PackagePath>Assets\DarkGray.png</PackagePath>
+      <Modified>2014-03-14T10:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajat\Work\HubApp1\HubApp1\HubApp1.Shared\DataModel\SampleData.json">
+      <PackagePath>DataModel\SampleData.json</PackagePath>
+      <Modified>2015-03-29T11:43:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajat\Work\HubApp1\HubApp1\HubApp1.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-03-29T14:59:35.719</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajat\Work\HubApp1\HubApp1\HubApp1.Windows\bin\Debug\HubPage.xbf">
+      <PackagePath>HubPage.xbf</PackagePath>
+      <Modified>2015-03-29T14:59:35.719</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajat\Work\HubApp1\HubApp1\HubApp1.Windows\bin\Debug\SectionPage.xbf">
+      <PackagePath>SectionPage.xbf</PackagePath>
+      <Modified>2015-03-29T14:59:35.719</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajat\Work\HubApp1\HubApp1\HubApp1.Windows\bin\Debug\ItemPage.xbf">
+      <PackagePath>ItemPage.xbf</PackagePath>
+      <Modified>2015-03-29T14:59:35.719</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajat\Work\HubApp1\HubApp1\HubApp1.Windows\bin\Debug\HubApp1.Windows.xr.xml">
+      <PackagePath>HubApp1.Windows.xr.xml</PackagePath>
+      <Modified>2015-03-29T11:39:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajat\Work\HubApp1\HubApp1\HubApp1.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-03-29T14:59:36.376</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

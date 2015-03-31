@@ -1,0 +1,137 @@
+C:\Users\Anurag\Documents\Visual Studio 2013\Projects\HubApp1\HubApp1\HubApp1.Windows\bin\Debug\App.xbf
+C:\Users\Anurag\Documents\Visual Studio 2013\Projects\HubApp1\HubApp1\HubApp1.Windows\bin\Debug\HubPage.xbf
+C:\Users\Anurag\Documents\Visual Studio 2013\Projects\HubApp1\HubApp1\HubApp1.Windows\bin\Debug\SectionPage.xbf
+C:\Users\Anurag\Documents\Visual Studio 2013\Projects\HubApp1\HubApp1\HubApp1.Windows\bin\Debug\ItemPage.xbf
+C:\Users\Anurag\Documents\Visual Studio 2013\Projects\HubApp1\HubApp1\HubApp1.Windows\bin\Debug\HubApp1.Windows.xr.xml
+C:\Users\Anurag\Documents\Visual Studio 2013\Projects\HubApp1\HubApp1\HubApp1.Windows\bin\Debug\HubApp1.Windows.exe
+C:\Users\Anurag\Documents\Visual Studio 2013\Projects\HubApp1\HubApp1\HubApp1.Windows\bin\Debug\HubApp1.Windows.pdb
+C:\Users\Anurag\Documents\Visual Studio 2013\Projects\HubApp1\HubApp1\HubApp1.Windows\bin\Debug\resources.pri
+C:\Users\Anurag\Documents\Visual Studio 2013\Projects\HubApp1\HubApp1\HubApp1.Windows\bin\Debug\AppxManifest.xml
+C:\Users\Anurag\Documents\Visual Studio 2013\Projects\HubApp1\HubApp1\HubApp1.Windows\bin\Debug\HubApp1.Windows.build.appxrecipe
+C:\Users\Anurag\Documents\Visual Studio 2013\Projects\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\App.g.i.cs
+C:\Users\Anurag\Documents\Visual Studio 2013\Projects\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\App.g.cs
+C:\Users\Anurag\Documents\Visual Studio 2013\Projects\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\HubPage.g.i.cs
+C:\Users\Anurag\Documents\Visual Studio 2013\Projects\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\HubPage.g.cs
+C:\Users\Anurag\Documents\Visual Studio 2013\Projects\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\SectionPage.g.i.cs
+C:\Users\Anurag\Documents\Visual Studio 2013\Projects\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\SectionPage.g.cs
+C:\Users\Anurag\Documents\Visual Studio 2013\Projects\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\ItemPage.g.i.cs
+C:\Users\Anurag\Documents\Visual Studio 2013\Projects\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\ItemPage.g.cs
+C:\Users\Anurag\Documents\Visual Studio 2013\Projects\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Anurag\Documents\Visual Studio 2013\Projects\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\App.xaml
+C:\Users\Anurag\Documents\Visual Studio 2013\Projects\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\SectionPage.xaml
+C:\Users\Anurag\Documents\Visual Studio 2013\Projects\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\ItemPage.xaml
+C:\Users\Anurag\Documents\Visual Studio 2013\Projects\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\App.xbf
+C:\Users\Anurag\Documents\Visual Studio 2013\Projects\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\SectionPage.xbf
+C:\Users\Anurag\Documents\Visual Studio 2013\Projects\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\ItemPage.xbf
+C:\Users\Anurag\Documents\Visual Studio 2013\Projects\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Anurag\Documents\Visual Studio 2013\Projects\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\HubPage.xaml
+C:\Users\Anurag\Documents\Visual Studio 2013\Projects\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\HubPage.xbf
+C:\Users\Anurag\Documents\Visual Studio 2013\Projects\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\HubApp1.Windows.exe
+C:\Users\Anurag\Documents\Visual Studio 2013\Projects\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\HubApp1.Windows.pdb
+C:\Users\Anurag\Documents\Visual Studio 2013\Projects\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\priconfig.xml
+C:\Users\Anurag\Documents\Visual Studio 2013\Projects\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\priconfig.xml.intermediate
+C:\Users\Anurag\Documents\Visual Studio 2013\Projects\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\layout.resfiles
+C:\Users\Anurag\Documents\Visual Studio 2013\Projects\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\layout.resfiles.intermediate
+C:\Users\Anurag\Documents\Visual Studio 2013\Projects\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\resources.resfiles
+C:\Users\Anurag\Documents\Visual Studio 2013\Projects\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\resources.resfiles.intermediate
+C:\Users\Anurag\Documents\Visual Studio 2013\Projects\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\pri.resfiles
+C:\Users\Anurag\Documents\Visual Studio 2013\Projects\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\pri.resfiles.intermediate
+C:\Users\Anurag\Documents\Visual Studio 2013\Projects\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\qualifiers.txt
+C:\Users\Anurag\Documents\Visual Studio 2013\Projects\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Anurag\Documents\Visual Studio 2013\Projects\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Anurag\Documents\Visual Studio 2013\Projects\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\ProjectArchitectures.txt
+C:\Users\Anurag\Documents\Visual Studio 2013\Projects\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\HubApp1.Windows.csprojResolveAssemblyReference.cache
+C:\Users\Anurag\Documents\Visual Studio 2013\Projects\HubApp1\HubApp1\HubApp1.Windows\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Anurag\Documents\Visual Studio 2013\Projects\HubApp1\HubApp1\HubApp1.Windows\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Anurag\Documents\Visual Studio 2013\Projects\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\HubApp1.Windows.csproj.GenerateResource.Cache
+H:\HubApp1\HubApp1\HubApp1.Windows\bin\Debug\App.xbf
+H:\HubApp1\HubApp1\HubApp1.Windows\bin\Debug\HubPage.xbf
+H:\HubApp1\HubApp1\HubApp1.Windows\bin\Debug\SectionPage.xbf
+H:\HubApp1\HubApp1\HubApp1.Windows\bin\Debug\ItemPage.xbf
+H:\HubApp1\HubApp1\HubApp1.Windows\bin\Debug\HubApp1.Windows.xr.xml
+H:\HubApp1\HubApp1\HubApp1.Windows\bin\Debug\HubApp1.Windows.exe
+H:\HubApp1\HubApp1\HubApp1.Windows\bin\Debug\HubApp1.Windows.pdb
+H:\HubApp1\HubApp1\HubApp1.Windows\bin\Debug\resources.pri
+H:\HubApp1\HubApp1\HubApp1.Windows\bin\Debug\AppxManifest.xml
+H:\HubApp1\HubApp1\HubApp1.Windows\bin\Debug\HubApp1.Windows.build.appxrecipe
+H:\HubApp1\HubApp1\HubApp1.Windows\bin\Debug\Newtonsoft.Json.dll
+H:\HubApp1\HubApp1\HubApp1.Windows\bin\Debug\Newtonsoft.Json.xml
+H:\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\HubApp1.Windows.csprojResolveAssemblyReference.cache
+H:\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\App.g.i.cs
+H:\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\App.g.cs
+H:\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\HubPage.g.i.cs
+H:\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\HubPage.g.cs
+H:\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\SectionPage.g.i.cs
+H:\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\SectionPage.g.cs
+H:\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\ItemPage.g.i.cs
+H:\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\ItemPage.g.cs
+H:\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\XamlTypeInfo.g.cs
+H:\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\App.xaml
+H:\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\HubPage.xaml
+H:\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\SectionPage.xaml
+H:\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\ItemPage.xaml
+H:\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\App.xbf
+H:\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\HubPage.xbf
+H:\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\SectionPage.xbf
+H:\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\ItemPage.xbf
+H:\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\XamlSaveStateFile.xml
+H:\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\HubApp1.Windows.exe
+H:\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\HubApp1.Windows.pdb
+H:\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\HubApp1.Windows.csproj.GenerateResource.Cache
+H:\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\priconfig.xml
+H:\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\priconfig.xml.intermediate
+H:\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\layout.resfiles
+H:\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\layout.resfiles.intermediate
+H:\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\resources.resfiles
+H:\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\resources.resfiles.intermediate
+H:\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\pri.resfiles
+H:\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\pri.resfiles.intermediate
+H:\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\qualifiers.txt
+H:\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\qualifiers.txt.intermediate
+H:\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+H:\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\ProjectArchitectures.txt
+C:\Users\Rajat\Work\HubApp1\HubApp1\HubApp1.Windows\bin\Debug\App.xbf
+C:\Users\Rajat\Work\HubApp1\HubApp1\HubApp1.Windows\bin\Debug\HubPage.xbf
+C:\Users\Rajat\Work\HubApp1\HubApp1\HubApp1.Windows\bin\Debug\SectionPage.xbf
+C:\Users\Rajat\Work\HubApp1\HubApp1\HubApp1.Windows\bin\Debug\ItemPage.xbf
+C:\Users\Rajat\Work\HubApp1\HubApp1\HubApp1.Windows\bin\Debug\HubApp1.Windows.xr.xml
+C:\Users\Rajat\Work\HubApp1\HubApp1\HubApp1.Windows\bin\Debug\HubApp1.Windows.exe
+C:\Users\Rajat\Work\HubApp1\HubApp1\HubApp1.Windows\bin\Debug\HubApp1.Windows.pdb
+C:\Users\Rajat\Work\HubApp1\HubApp1\HubApp1.Windows\bin\Debug\resources.pri
+C:\Users\Rajat\Work\HubApp1\HubApp1\HubApp1.Windows\bin\Debug\AppxManifest.xml
+C:\Users\Rajat\Work\HubApp1\HubApp1\HubApp1.Windows\bin\Debug\HubApp1.Windows.build.appxrecipe
+C:\Users\Rajat\Work\HubApp1\HubApp1\HubApp1.Windows\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Rajat\Work\HubApp1\HubApp1\HubApp1.Windows\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Rajat\Work\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\App.g.i.cs
+C:\Users\Rajat\Work\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\App.g.cs
+C:\Users\Rajat\Work\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\HubPage.g.i.cs
+C:\Users\Rajat\Work\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\HubPage.g.cs
+C:\Users\Rajat\Work\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\SectionPage.g.i.cs
+C:\Users\Rajat\Work\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\SectionPage.g.cs
+C:\Users\Rajat\Work\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\ItemPage.g.i.cs
+C:\Users\Rajat\Work\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\ItemPage.g.cs
+C:\Users\Rajat\Work\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Rajat\Work\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\App.xaml
+C:\Users\Rajat\Work\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\HubPage.xaml
+C:\Users\Rajat\Work\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\SectionPage.xaml
+C:\Users\Rajat\Work\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\ItemPage.xaml
+C:\Users\Rajat\Work\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\App.xbf
+C:\Users\Rajat\Work\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\HubPage.xbf
+C:\Users\Rajat\Work\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\SectionPage.xbf
+C:\Users\Rajat\Work\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\ItemPage.xbf
+C:\Users\Rajat\Work\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Rajat\Work\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\HubApp1.Windows.exe
+C:\Users\Rajat\Work\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\HubApp1.Windows.pdb
+C:\Users\Rajat\Work\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\HubApp1.Windows.csproj.GenerateResource.Cache
+C:\Users\Rajat\Work\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\priconfig.xml
+C:\Users\Rajat\Work\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\priconfig.xml.intermediate
+C:\Users\Rajat\Work\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\layout.resfiles
+C:\Users\Rajat\Work\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\layout.resfiles.intermediate
+C:\Users\Rajat\Work\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\resources.resfiles
+C:\Users\Rajat\Work\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\resources.resfiles.intermediate
+C:\Users\Rajat\Work\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\pri.resfiles
+C:\Users\Rajat\Work\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\pri.resfiles.intermediate
+C:\Users\Rajat\Work\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\qualifiers.txt
+C:\Users\Rajat\Work\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Rajat\Work\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Rajat\Work\HubApp1\HubApp1\HubApp1.Windows\obj\Debug\ProjectArchitectures.txt

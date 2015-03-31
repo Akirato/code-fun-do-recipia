@@ -1,0 +1,69 @@
+C:\Users\Anurag\Documents\Visual Studio 2013\Projects\HubApp1\HubApp1\HubApp1.WindowsPhone\bin\Debug\App.xbf
+C:\Users\Anurag\Documents\Visual Studio 2013\Projects\HubApp1\HubApp1\HubApp1.WindowsPhone\bin\Debug\HubPage.xbf
+C:\Users\Anurag\Documents\Visual Studio 2013\Projects\HubApp1\HubApp1\HubApp1.WindowsPhone\bin\Debug\SectionPage.xbf
+C:\Users\Anurag\Documents\Visual Studio 2013\Projects\HubApp1\HubApp1\HubApp1.WindowsPhone\bin\Debug\ItemPage.xbf
+C:\Users\Anurag\Documents\Visual Studio 2013\Projects\HubApp1\HubApp1\HubApp1.WindowsPhone\bin\Debug\HubApp1.WindowsPhone.xr.xml
+C:\Users\Anurag\Documents\Visual Studio 2013\Projects\HubApp1\HubApp1\HubApp1.WindowsPhone\bin\Debug\HubApp1.WindowsPhone.exe
+C:\Users\Anurag\Documents\Visual Studio 2013\Projects\HubApp1\HubApp1\HubApp1.WindowsPhone\bin\Debug\HubApp1.WindowsPhone.pdb
+C:\Users\Anurag\Documents\Visual Studio 2013\Projects\HubApp1\HubApp1\HubApp1.WindowsPhone\bin\Debug\resources.pri
+C:\Users\Anurag\Documents\Visual Studio 2013\Projects\HubApp1\HubApp1\HubApp1.WindowsPhone\bin\Debug\AppxManifest.xml
+C:\Users\Anurag\Documents\Visual Studio 2013\Projects\HubApp1\HubApp1\HubApp1.WindowsPhone\bin\Debug\HubApp1.WindowsPhone.build.appxrecipe
+C:\Users\Anurag\Documents\Visual Studio 2013\Projects\HubApp1\HubApp1\HubApp1.WindowsPhone\obj\Debug\App.g.i.cs
+C:\Users\Anurag\Documents\Visual Studio 2013\Projects\HubApp1\HubApp1\HubApp1.WindowsPhone\obj\Debug\App.g.cs
+C:\Users\Anurag\Documents\Visual Studio 2013\Projects\HubApp1\HubApp1\HubApp1.WindowsPhone\obj\Debug\HubPage.g.i.cs
+C:\Users\Anurag\Documents\Visual Studio 2013\Projects\HubApp1\HubApp1\HubApp1.WindowsPhone\obj\Debug\HubPage.g.cs
+C:\Users\Anurag\Documents\Visual Studio 2013\Projects\HubApp1\HubApp1\HubApp1.WindowsPhone\obj\Debug\SectionPage.g.i.cs
+C:\Users\Anurag\Documents\Visual Studio 2013\Projects\HubApp1\HubApp1\HubApp1.WindowsPhone\obj\Debug\SectionPage.g.cs
+C:\Users\Anurag\Documents\Visual Studio 2013\Projects\HubApp1\HubApp1\HubApp1.WindowsPhone\obj\Debug\ItemPage.g.i.cs
+C:\Users\Anurag\Documents\Visual Studio 2013\Projects\HubApp1\HubApp1\HubApp1.WindowsPhone\obj\Debug\ItemPage.g.cs
+C:\Users\Anurag\Documents\Visual Studio 2013\Projects\HubApp1\HubApp1\HubApp1.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Anurag\Documents\Visual Studio 2013\Projects\HubApp1\HubApp1\HubApp1.WindowsPhone\obj\Debug\App.xaml
+C:\Users\Anurag\Documents\Visual Studio 2013\Projects\HubApp1\HubApp1\HubApp1.WindowsPhone\obj\Debug\HubPage.xaml
+C:\Users\Anurag\Documents\Visual Studio 2013\Projects\HubApp1\HubApp1\HubApp1.WindowsPhone\obj\Debug\SectionPage.xaml
+C:\Users\Anurag\Documents\Visual Studio 2013\Projects\HubApp1\HubApp1\HubApp1.WindowsPhone\obj\Debug\ItemPage.xaml
+C:\Users\Anurag\Documents\Visual Studio 2013\Projects\HubApp1\HubApp1\HubApp1.WindowsPhone\obj\Debug\App.xbf
+C:\Users\Anurag\Documents\Visual Studio 2013\Projects\HubApp1\HubApp1\HubApp1.WindowsPhone\obj\Debug\HubPage.xbf
+C:\Users\Anurag\Documents\Visual Studio 2013\Projects\HubApp1\HubApp1\HubApp1.WindowsPhone\obj\Debug\SectionPage.xbf
+C:\Users\Anurag\Documents\Visual Studio 2013\Projects\HubApp1\HubApp1\HubApp1.WindowsPhone\obj\Debug\ItemPage.xbf
+C:\Users\Anurag\Documents\Visual Studio 2013\Projects\HubApp1\HubApp1\HubApp1.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Anurag\Documents\Visual Studio 2013\Projects\HubApp1\HubApp1\HubApp1.WindowsPhone\obj\Debug\HubApp1.WindowsPhone.exe
+C:\Users\Anurag\Documents\Visual Studio 2013\Projects\HubApp1\HubApp1\HubApp1.WindowsPhone\obj\Debug\HubApp1.WindowsPhone.pdb
+C:\Users\Anurag\Documents\Visual Studio 2013\Projects\HubApp1\HubApp1\HubApp1.WindowsPhone\obj\Debug\priconfig.xml
+C:\Users\Anurag\Documents\Visual Studio 2013\Projects\HubApp1\HubApp1\HubApp1.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+C:\Users\Anurag\Documents\Visual Studio 2013\Projects\HubApp1\HubApp1\HubApp1.WindowsPhone\obj\Debug\layout.resfiles
+C:\Users\Anurag\Documents\Visual Studio 2013\Projects\HubApp1\HubApp1\HubApp1.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+C:\Users\Anurag\Documents\Visual Studio 2013\Projects\HubApp1\HubApp1\HubApp1.WindowsPhone\obj\Debug\resources.resfiles
+C:\Users\Anurag\Documents\Visual Studio 2013\Projects\HubApp1\HubApp1\HubApp1.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+C:\Users\Anurag\Documents\Visual Studio 2013\Projects\HubApp1\HubApp1\HubApp1.WindowsPhone\obj\Debug\pri.resfiles
+C:\Users\Anurag\Documents\Visual Studio 2013\Projects\HubApp1\HubApp1\HubApp1.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+C:\Users\Anurag\Documents\Visual Studio 2013\Projects\HubApp1\HubApp1\HubApp1.WindowsPhone\obj\Debug\qualifiers.txt
+C:\Users\Anurag\Documents\Visual Studio 2013\Projects\HubApp1\HubApp1\HubApp1.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Anurag\Documents\Visual Studio 2013\Projects\HubApp1\HubApp1\HubApp1.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Anurag\Documents\Visual Studio 2013\Projects\HubApp1\HubApp1\HubApp1.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+C:\Users\Rajat\Work\HubApp1\HubApp1\HubApp1.WindowsPhone\bin\Debug\App.xbf
+C:\Users\Rajat\Work\HubApp1\HubApp1\HubApp1.WindowsPhone\bin\Debug\HubPage.xbf
+C:\Users\Rajat\Work\HubApp1\HubApp1\HubApp1.WindowsPhone\bin\Debug\SectionPage.xbf
+C:\Users\Rajat\Work\HubApp1\HubApp1\HubApp1.WindowsPhone\bin\Debug\ItemPage.xbf
+C:\Users\Rajat\Work\HubApp1\HubApp1\HubApp1.WindowsPhone\bin\Debug\HubApp1.WindowsPhone.xr.xml
+C:\Users\Rajat\Work\HubApp1\HubApp1\HubApp1.WindowsPhone\bin\Debug\HubApp1.WindowsPhone.exe
+C:\Users\Rajat\Work\HubApp1\HubApp1\HubApp1.WindowsPhone\bin\Debug\HubApp1.WindowsPhone.pdb
+C:\Users\Rajat\Work\HubApp1\HubApp1\HubApp1.WindowsPhone\obj\Debug\App.g.i.cs
+C:\Users\Rajat\Work\HubApp1\HubApp1\HubApp1.WindowsPhone\obj\Debug\App.g.cs
+C:\Users\Rajat\Work\HubApp1\HubApp1\HubApp1.WindowsPhone\obj\Debug\HubPage.g.i.cs
+C:\Users\Rajat\Work\HubApp1\HubApp1\HubApp1.WindowsPhone\obj\Debug\HubPage.g.cs
+C:\Users\Rajat\Work\HubApp1\HubApp1\HubApp1.WindowsPhone\obj\Debug\SectionPage.g.i.cs
+C:\Users\Rajat\Work\HubApp1\HubApp1\HubApp1.WindowsPhone\obj\Debug\SectionPage.g.cs
+C:\Users\Rajat\Work\HubApp1\HubApp1\HubApp1.WindowsPhone\obj\Debug\ItemPage.g.i.cs
+C:\Users\Rajat\Work\HubApp1\HubApp1\HubApp1.WindowsPhone\obj\Debug\ItemPage.g.cs
+C:\Users\Rajat\Work\HubApp1\HubApp1\HubApp1.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Rajat\Work\HubApp1\HubApp1\HubApp1.WindowsPhone\obj\Debug\App.xaml
+C:\Users\Rajat\Work\HubApp1\HubApp1\HubApp1.WindowsPhone\obj\Debug\HubPage.xaml
+C:\Users\Rajat\Work\HubApp1\HubApp1\HubApp1.WindowsPhone\obj\Debug\SectionPage.xaml
+C:\Users\Rajat\Work\HubApp1\HubApp1\HubApp1.WindowsPhone\obj\Debug\ItemPage.xaml
+C:\Users\Rajat\Work\HubApp1\HubApp1\HubApp1.WindowsPhone\obj\Debug\App.xbf
+C:\Users\Rajat\Work\HubApp1\HubApp1\HubApp1.WindowsPhone\obj\Debug\HubPage.xbf
+C:\Users\Rajat\Work\HubApp1\HubApp1\HubApp1.WindowsPhone\obj\Debug\SectionPage.xbf
+C:\Users\Rajat\Work\HubApp1\HubApp1\HubApp1.WindowsPhone\obj\Debug\ItemPage.xbf
+C:\Users\Rajat\Work\HubApp1\HubApp1\HubApp1.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Rajat\Work\HubApp1\HubApp1\HubApp1.WindowsPhone\obj\Debug\HubApp1.WindowsPhone.exe
+C:\Users\Rajat\Work\HubApp1\HubApp1\HubApp1.WindowsPhone\obj\Debug\HubApp1.WindowsPhone.pdb
